@@ -2,7 +2,7 @@ package com.bz.basicprograms;
 
 import java.util.Scanner;
 
-public class Classwork {
+public class ArrayLibrary {
 
     Scanner sc = new Scanner(System.in);
 
@@ -78,7 +78,7 @@ public class Classwork {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Classwork obj = new Classwork();
+        ArrayLibrary obj = new ArrayLibrary();
         System.out.println("Enter 1 for integer 2 for Double 3 for boolean");
         int userChoice = sc.nextInt();
         switch (userChoice) {
