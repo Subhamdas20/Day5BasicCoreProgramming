@@ -1,6 +1,7 @@
 package com.bz.basicprograms;
 
 public class IntegerSumEqualsZero {
+    /* Added a method array sum which finds the triplets whose sum is zero */
     static void arraySum() {
         int[] array = {5, -3, -2, 6, 8};
         for (int i = 0; i < array.length - 2; i++) {
