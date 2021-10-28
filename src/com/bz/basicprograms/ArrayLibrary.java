@@ -58,7 +58,6 @@ public class ArrayLibrary {
         int row = sc.nextInt();
         System.out.println("Enter the number of columns");
         int column = sc.nextInt();
-
         Boolean[][] array = new Boolean[row][column];
         int i, j, k, l;
         for (i = 0; i < array.length; i++) {
