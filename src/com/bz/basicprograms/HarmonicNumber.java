@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class HarmonicNumber {
+    /* Calculating harmonic numbers */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the harmonic value of n");
