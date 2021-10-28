@@ -4,6 +4,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class CheckVowelOrConsonant {
+    /*Added a method to check vowels or consonants */
     public static void checkVowels() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Character to check whether it is vowel or consonant");
