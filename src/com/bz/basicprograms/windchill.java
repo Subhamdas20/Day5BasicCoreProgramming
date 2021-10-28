@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class windchill {
+    /*Added a method to calculate wind chill */
     static void calculateEffectiveTemperature() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the temperature in Fahrenheit");
