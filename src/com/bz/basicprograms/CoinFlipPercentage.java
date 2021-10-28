@@ -19,6 +19,7 @@ public class CoinFlipPercentage {
 
             }
         }
+
         System.out.println("Number of times tails came = "+tails);
         System.out.println("Number of times heads came = "+heads);
         System.out.println("percentage of tails=" + (tails * 100) / flip);
