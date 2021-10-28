@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class Quadratic {
+    /*Calculated the quadratic equation */
     static void calculateQuadraticEquation(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of a");
@@ -22,7 +23,6 @@ public class Quadratic {
         }
         else
             System.out.println("Delta value is in negative cannot compute enter valid inputs");
-
     }
     public static void main(String[] args) {
         calculateQuadraticEquation();
