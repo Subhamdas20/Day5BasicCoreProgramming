@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class LargestAmongThreeNumbers {
+    /* Added method to find largest of three numbers */
     public static void findLargest(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number");
