@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class ArrayLibrary {
+    /*Added 3 methods to store 2D arrays of integer double and boolean */
 
     Scanner sc = new Scanner(System.in);
 
