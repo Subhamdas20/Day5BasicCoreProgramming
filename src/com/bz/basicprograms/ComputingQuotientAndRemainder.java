@@ -3,6 +3,7 @@ package com.bz.basicprograms;
 import java.util.Scanner;
 
 public class ComputingQuotientAndRemainder {
+    /*Added method to calculate quotient and remainder */
     public void compute() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number ");
