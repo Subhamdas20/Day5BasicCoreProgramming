@@ -21,6 +21,5 @@ public class LargestAmongThreeNumbers {
     }
     public static void main(String[] args) {
       findLargest();
-
     }
 }
