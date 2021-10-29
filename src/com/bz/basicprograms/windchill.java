@@ -18,7 +18,6 @@ public class windchill {
             System.out.println("Invalid input from user");
     }
 
-
     public static void main(String[] args) {
         calculateEffectiveTemperature();
     }
