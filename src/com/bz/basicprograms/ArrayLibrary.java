@@ -6,7 +6,6 @@ public class ArrayLibrary {
     /*Added 3 methods to store 2D arrays of integer double and boolean */
 
     Scanner sc = new Scanner(System.in);
-
     public void arrayIntPrint() {
 
         System.out.println("Enter the number of rows");
